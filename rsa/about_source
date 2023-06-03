@@ -1,0 +1,4 @@
+the function that makes counter calculation of msg could be implemented after
+the example of the function will runs like this 
+ - use the dictionary "count_dict" that works like 'for k in msg : count_dict[k] = m.count(k)'
+ - use the variable "splited_number" for knowing how many '/' are used
